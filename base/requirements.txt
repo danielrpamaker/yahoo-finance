@@ -1,0 +1,7 @@
+robotframework
+robotframework-requests
+python-decouple==3.4
+rpamaker
+rpaframework
+robotframework-seleniumlibrary
+selenium==4.9.1
